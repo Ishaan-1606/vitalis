@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
-    private const val BASE_URL = "https://wearable-dummy-data.onrender.com/" // Base URL of your API
+    private  val BASE_URL = "http://192.168.99.247/data/"
 
     val instance: ApiService by lazy {
         Retrofit.Builder()

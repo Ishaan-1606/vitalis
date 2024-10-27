@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344713251756",
+    "project_id": "vitalis-941ab",
+    "storage_bucket": "vitalis-941ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344713251756:android:4957f7e0fe1821d69c0809",
+        "android_client_info": {
+          "package_name": "com.cprac.wearableproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5CaHcRASGhIio7eDH02oyOx-CTq98g4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
